@@ -1,0 +1,13 @@
+/.vs
+
+/x64
+
+ProblemSolving/x64
+
+*.sln
+
+*.vcxproj
+
+*.vcxproj.filters
+
+*.vcxproj.user
